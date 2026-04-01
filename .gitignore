@@ -37,8 +37,7 @@ venv.bak/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Model weights and artifacts
-Model/
+
 
 # OS generated files
 .DS_Store
