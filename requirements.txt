@@ -16,3 +16,4 @@ torch
 fastapi
 uvicorn[standard]
 pydantic
+vaderSentiment
