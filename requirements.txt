@@ -1,0 +1,18 @@
+# fastapi
+# uvicorn[standard]
+# pydantic
+
+# --- ML/Data ---
+scikit-learn
+numpy
+nltk
+pyyaml
+joblib
+
+# --- Deep Learning (GRU model) ---
+torch
+
+# --- API ---
+fastapi
+uvicorn[standard]
+pydantic
